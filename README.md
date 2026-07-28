@@ -30,7 +30,7 @@ Ini adalah repo Alumni Web — dibangun pakai **HTML, CSS, dan JavaScript** murn
 - 📍 Costum Map
 - 🔎 Costum Contact Person
 
-ini link dari codingan di atas https://zzzurr.github.io/WEB-Undangan-Alumni/
+WEBNYA bisa lihat disini >>> https://zzzurr.github.io/WEB-Undangan-Alumni/
 <br/>
 
 ---
