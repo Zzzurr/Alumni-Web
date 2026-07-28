@@ -1,1 +1,10 @@
-Taruh file musik kamu di sini dengan nama: Project Pop.mp3 (sesuai yang dipanggil di index.html)
+Taruh file musik lu dengan nama sesuai yang dipanggil di index.html
+
+kalo mau ubah lagu dan nomor WA ada di "HTML" nya dan di "JAVASCRIPTNYA."
+
+
+Copyright (c) 2026 [Zzurr]. All rights reserved.
+
+This project and its source code are the exclusive property of [Zzzurr].
+Unauthorized copying, modification, distribution, or use of this software,
+via any medium, is strictly prohibited without explicit written permission.
